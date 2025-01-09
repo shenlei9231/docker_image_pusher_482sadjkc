@@ -1,1 +1,1 @@
-adoptopenjdk/openjdk8:jre8u392-b08-ubuntu
+zlmediakit/zlmediakit:latesta
