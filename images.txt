@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:latesta
+zlmediakit/zlmediakit:master
