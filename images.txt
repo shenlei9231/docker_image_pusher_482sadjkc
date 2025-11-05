@@ -1,1 +1,1 @@
-paddlespeech/paddlespeech-fastdeploy:cpu-latest
+paddlespeech/paddlespeech:fastdeploy-cpu-latest
