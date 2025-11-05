@@ -1,1 +1,1 @@
-milvusdb/milvus-em:v0.4.2
+paddlespeech/paddlespeech-fastdeploy:cpu-latest
